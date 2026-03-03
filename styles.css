@@ -1212,11 +1212,6 @@ ul, ol {
     grid-column: span 2;
   }
 
-  /* Último asesor: centrado en columna 2 */
-  .advisor-card:nth-child(11) {
-    grid-column: 2 / 3;
-  }
-
   /* Layout horizontal en tarjetas featured */
   .advisor-card--featured .card-inner {
     flex-direction: row;

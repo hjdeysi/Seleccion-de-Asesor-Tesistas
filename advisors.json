@@ -86,5 +86,13 @@
     "bio": "Ingeniera Informática por la UPCH (primer puesto) y Magíster en Administración por ESAN con mención en Supply Chain Management. Más de 15 años combinando gestión de TI, innovación y docencia. Catedrática en UPC, UPCH, UCSUR, USIL con cursos de Python, IA Generativa y Ciencia de Datos.",
     "resumen": "Las áreas de investigación e interés de Deisy abarcan la Inteligencia Artificial y tecnologías emergentes, Ciencia de Datos, IoT, Healthtech, innovación aplicada con metodologías como Design Thinking y Lean Startup, y la construcción científico-textual desde una visión transdisciplinaria. Su perfil combina sólida formación técnica en ingeniería informática con experiencia ejecutiva en gestión de proyectos de innovación financiados por ProInnovate, Google.org y BID, lo que la convierte en una asesora pertinente para tesis que articulen tecnología, gestión empresarial, emprendimiento o innovación social.",
     "featured": false
+  },
+  {
+    "id": 12,
+    "name": "Mg. Alonso Tenorio Trigoso",
+    "photo": "images/Alonso_Perfil.png",
+    "bio": "Magíster en Tecnologías Informáticas Avanzadas y candidato al grado de Doctor en Informática con mención en Cloud Computing por la Universidad de Castilla-La Mancha. Investigador RENACYT y docente en la Universidad Nacional de Ingeniería (UNI) desde 2012, adscrito a la Facultad de Arquitectura, Urbanismo y Artes. Ha ocupado cargos directivos de alto nivel en el Estado peruano: Director del CTIC-UNI (2015–2020), Jefe de la OTIC y de la Unidad de Infraestructura Tecnológica del MINEDU, Director General de Telesalud (DIGTEL-MINSA, 2023–2024) y actualmente Director de la DITE-MINEDU. Es fellow del programa HP Cambridge Partnership for Education EdTech Fellowship (2025–2026).",
+    "resumen": "Alonso combina una sólida trayectoria académica con una destacada gestión pública en tecnología e innovación digital. Lideró el proyecto 'Smart Qhali Kay', un dispositivo IoT para ambulancias del SAMU que ganó el Premio de Buenas Prácticas en Gestión Pública 2024 (Ciudadanos al Día) en la categoría de Gobierno Digital. Ha publicado trabajos en conferencias internacionales sobre Cloud Computing, Grid Computing e IoT, y ha impulsado el Plan de Cierre de Brecha Digital del MINEDU para escuelas peruanas. Con más de 21 posiciones en su trayectoria y más de 41 aptitudes validadas, sus líneas de investigación incluyen tecnología educativa, computación en la nube, IoT y transformación digital en el sector público.",
+    "featured": false
   }
 ]
