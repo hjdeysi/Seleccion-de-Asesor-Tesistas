@@ -93,6 +93,6 @@
     "photo": "images/Alonso_Perfil.png",
     "bio": "Magíster en Tecnologías Informáticas Avanzadas y candidato al grado de Doctor en Informática con mención en Cloud Computing por la Universidad de Castilla-La Mancha. Investigador RENACYT y docente en la Universidad Nacional de Ingeniería (UNI) desde 2012, adscrito a la Facultad de Arquitectura, Urbanismo y Artes. Ha ocupado cargos directivos de alto nivel en el Estado peruano: Director del CTIC-UNI (2015–2020), Jefe de la OTIC y de la Unidad de Infraestructura Tecnológica del MINEDU, Director General de Telesalud (DIGTEL-MINSA, 2023–2024) y actualmente Director de la DITE-MINEDU. Es fellow del programa HP Cambridge Partnership for Education EdTech Fellowship (2025–2026).",
     "resumen": "Alonso combina una sólida trayectoria académica con una destacada gestión pública en tecnología e innovación digital. Lideró el proyecto 'Smart Qhali Kay', un dispositivo IoT para ambulancias del SAMU que ganó el Premio de Buenas Prácticas en Gestión Pública 2024 (Ciudadanos al Día) en la categoría de Gobierno Digital. Ha publicado trabajos en conferencias internacionales sobre Cloud Computing, Grid Computing e IoT, y ha impulsado el Plan de Cierre de Brecha Digital del MINEDU para escuelas peruanas. Con más de 21 posiciones en su trayectoria y más de 41 aptitudes validadas, sus líneas de investigación incluyen tecnología educativa, computación en la nube, IoT y transformación digital en el sector público.",
-    "featured": false
+    "featured": true
   }
 ]

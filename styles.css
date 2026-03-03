@@ -1208,7 +1208,8 @@ ul, ol {
 
   /* Tarjetas featured: span 2 columnas */
   .advisor-card:nth-child(1),
-  .advisor-card:nth-child(7) {
+  .advisor-card:nth-child(7),
+  .advisor-card:nth-child(12) {
     grid-column: span 2;
   }
 
