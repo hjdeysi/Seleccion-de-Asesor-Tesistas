@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Conoce a los asesores del ciclo 2026-1. Expertos académicos de la Universidad Peruana Cayetano Heredia con amplia trayectoria en distintas áreas del conocimiento." />
+  <meta property="og:title" content="Asesores de Tesis — Ciclo 2026-1 · UPCH" />
+  <meta property="og:description" content="Conoce al equipo de asesores que acompañará tu proceso de investigación hacia la defensa de tu tesis." />
+  <meta property="og:type" content="website" />
+  <title>Asesores de Tesis · Ciclo 2026-1 · UPCH</title>
+
+  <!-- Favicon usando el escudo UPCH -->
+  <link rel="icon" type="image/png" href="images/Escudo_UPCH.png" />
+
+  <!-- Google Fonts: Outfit -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Accesibilidad: Skip link -->
+  <a href="#asesores" class="skip-to-content">Saltar al contenido principal</a>
+
+  <!-- ================================================
+       NAVEGACIÓN
+  ================================================ -->
+  <nav class="navbar" id="navbar" role="navigation" aria-label="Navegación principal">
+    <div class="nav-container">
+      <a href="#inicio" class="nav-logo" aria-label="Ir al inicio">
+        <img
+          src="images/Escudo_UPCH.png"
+          alt="Escudo UPCH"
+          class="nav-shield"
+          width="34"
+          height="34"
+        />
+        <span class="logo-text">Tesis <strong>2026-1</strong></span>
+      </a>
+
+      <ul class="nav-links" id="navLinks" role="list">
+        <li><a href="#asesores">Asesores</a></li>
+        <li><a href="#acerca">El proceso</a></li>
+        <li><a href="#contacto" class="nav-cta">Contacto</a></li>
+      </ul>
+
+      <button
+        class="nav-toggle"
+        id="navToggle"
+        aria-expanded="false"
+        aria-controls="navLinks"
+        aria-label="Abrir menú de navegación"
+      >
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </button>
+    </div>
+  </nav>
+
+  <main id="main-content">
+
+    <!-- ================================================
+         HERO
+    ================================================ -->
+    <section class="hero" id="inicio" aria-labelledby="hero-title">
+      <div class="hero-bg-glow" aria-hidden="true"></div>
+
+      <div class="hero-container">
+        <!-- Izquierda: texto -->
+        <div class="hero-left">
+          <p class="hero-eyebrow">Universidad Peruana Cayetano Heredia</p>
+          <p class="hero-tag">Curso de Tesis · Ciclo 2026-1</p>
+          <h1 class="hero-title" id="hero-title">
+            Los académicos<br />
+            que guiarán tu<br />
+            <em>investigación</em>
+          </h1>
+          <p class="hero-description">
+            Cada asesor aporta años de experiencia práctica y rigor académico
+            para acompañarte desde la primera idea hasta la defensa final de tu tesis de pregrado.
+          </p>
+          <a href="#asesores" class="btn-primary">
+            Conoce al equipo
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24"
+              fill="none" stroke="currentColor" stroke-width="2"
+              stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M5 12h14"/>
+              <path d="m12 5 7 7-7 7"/>
+            </svg>
+          </a>
+        </div>
+
+        <!-- Derecha: mosaico de fotos -->
+        <div class="hero-right" aria-hidden="true">
+          <div class="hero-mosaic" id="heroMosaic"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================================================
+         SECCIÓN ASESORES
+    ================================================ -->
+    <section class="advisors-section" id="asesores" aria-labelledby="advisors-title">
+      <div class="section-container">
+        <header class="section-header">
+          <p class="section-tag">El equipo</p>
+          <h2 class="section-title" id="advisors-title">Expertos en su campo</h2>
+          <p class="section-subtitle">
+            Selecciona al asesor cuya área de experiencia se alinee
+            con tu propuesta de investigación de pregrado.
+          </p>
+        </header>
+
+        <!-- Las tarjetas se inyectan desde advisors.json via JavaScript -->
+        <div
+          class="advisors-grid"
+          id="advisorsGrid"
+          role="list"
+          aria-label="Lista de asesores de tesis"
+        ></div>
+      </div>
+    </section>
+
+    <!-- ================================================
+         SECCIÓN EL PROCESO
+    ================================================ -->
+    <section class="about-section" id="acerca" aria-labelledby="about-title">
+      <div class="about-container">
+        <div class="about-left">
+          <p class="section-tag">El proceso</p>
+          <h2 class="about-title" id="about-title">
+            ¿Cómo funciona<br />la asesoría?
+          </h2>
+          <p class="about-intro">
+            Un proceso estructurado que te acompaña desde la concepción
+            de tu idea hasta la defensa ante el jurado evaluador.
+          </p>
+        </div>
+
+        <div class="about-right">
+          <ol class="process-steps" aria-label="Pasos del proceso de asesoría">
+            <li class="process-step">
+              <div class="step-number" aria-hidden="true">01</div>
+              <div class="step-content">
+                <h3>Selección de asesor</h3>
+                <p>
+                  Revisa los perfiles y contacta al asesor cuya área de investigación
+                  se alinee mejor con tu propuesta de tesis.
+                </p>
+              </div>
+            </li>
+            <li class="process-step">
+              <div class="step-number" aria-hidden="true">02</div>
+              <div class="step-content">
+                <h3>Reunión inicial</h3>
+                <p>
+                  Primera sesión de trabajo donde se establece el cronograma,
+                  los compromisos y el alcance de la investigación.
+                </p>
+              </div>
+            </li>
+            <li class="process-step">
+              <div class="step-number" aria-hidden="true">03</div>
+              <div class="step-content">
+                <h3>Desarrollo y seguimiento</h3>
+                <p>
+                  Sesiones periódicas de revisión, retroalimentación y ajuste
+                  del documento a lo largo de todo el proceso.
+                </p>
+              </div>
+            </li>
+            <li class="process-step">
+              <div class="step-number" aria-hidden="true">04</div>
+              <div class="step-content">
+                <h3>Defensa final</h3>
+                <p>
+                  Preparación intensiva para la presentación ante el jurado
+                  y defensa del trabajo de investigación desarrollado.
+                </p>
+              </div>
+            </li>
+          </ol>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ================================================
+       FOOTER
+  ================================================ -->
+  <footer class="footer" id="contacto" role="contentinfo">
+    <div class="footer-container">
+      <div class="footer-top">
+        <div class="footer-brand">
+          <a href="#inicio" class="footer-logo-link" aria-label="Ir al inicio">
+            <img
+              src="images/Escudo_UPCH.png"
+              alt="Escudo UPCH"
+              class="footer-shield"
+            />
+            <div class="footer-brand-name">
+              <span class="footer-institution-line">Universidad Peruana</span>
+              <span class="footer-institution-name">Cayetano Heredia</span>
+            </div>
+          </a>
+          <p class="footer-description">
+            Curso de tesis para estudiantes de pregrado — Ciclo 2026-1.
+            Información sobre asesores disponibles.
+          </p>
+        </div>
+
+        <nav class="footer-nav" aria-label="Navegación pie de página">
+          <h4 class="footer-nav-title">Navegación</h4>
+          <ul role="list">
+            <li><a href="#inicio">Inicio</a></li>
+            <li><a href="#asesores">Asesores</a></li>
+            <li><a href="#acerca">El proceso</a></li>
+          </ul>
+        </nav>
+
+      </div>
+
+      <div class="footer-bottom">
+        <p>© 2026 Universidad Peruana Cayetano Heredia. Todos los derechos reservados.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ================================================
+       MODAL — PERFIL COMPLETO DEL ASESOR
+  ================================================ -->
+  <div
+    class="modal-overlay"
+    id="advisorModal"
+    role="dialog"
+    aria-modal="true"
+    aria-labelledby="modalName"
+  >
+    <div class="modal-card">
+      <button class="modal-close" id="modalClose" aria-label="Cerrar perfil">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"
+          fill="none" stroke="currentColor" stroke-width="2"
+          stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M18 6 6 18"/><path d="m6 6 12 12"/>
+        </svg>
+      </button>
+
+      <div class="modal-header">
+        <div class="modal-photo-wrap">
+          <img id="modalPhoto" src="" alt="" class="modal-photo" />
+        </div>
+        <h2 class="modal-name" id="modalName"></h2>
+      </div>
+
+      <div class="modal-body">
+        <div class="modal-section">
+          <h3 class="modal-section-title">Sobre el asesor</h3>
+          <p class="modal-text" id="modalBio"></p>
+        </div>
+        <div class="modal-section">
+          <h3 class="modal-section-title">Trayectoria y contribuciones</h3>
+          <p class="modal-text" id="modalResumen"></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

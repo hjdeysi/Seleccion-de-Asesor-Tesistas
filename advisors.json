@@ -1,0 +1,90 @@
+[
+  {
+    "id": 4,
+    "name": "Mg. Ing. Roy Yali Samaniego",
+    "photo": "images/Desconocido_Perfil.jfif",
+    "bio": "Ingeniero Geógrafo por la UNMSM y Magíster en Informática por la PUCP. Cursa un Doctorado en Geotecnologías en la Universidad de Salamanca con tesis sobre monitoreo satelital mediante IA. Más de 10 años de experiencia en geoinformática, análisis espacial y docencia en la UPCH.",
+    "resumen": "Roy ha contribuido a proyectos de investigación de impacto global, entre ellos RGEE —una librería que integra Google Earth Engine con R, publicada en el Journal of Open Source Software— y CloudSen12, una base de datos para segmentación de nubes desde imágenes satelitales publicada en Scientific Data (Nature). Ha trabajado como especialista GIS en el SERNANP, desarrollando herramientas de monitoreo de deforestación en la Amazonía, y como investigador en la Universidad de Salamanca en proyectos de fotogrametría 3D, reconstrucción con NeRF y Gaussian Splatting, y armonización de datos satelitales Landsat-Sentinel con Deep Learning. Ha sido ponente en universidades de España y Perú, y sus líneas de investigación abarcan GIS, teledetección, visión por computador, IA aplicada y computación de alto rendimiento (HPC).",
+    "featured": true
+  },
+  {
+    "id": 1,
+    "name": "MSc. Ing. Nhool Zorrilla Narvarte",
+    "photo": "images/Nhool_Perfil.jfif",
+    "bio": "Ingeniera Informática por la UPCH y Magíster en Operations Management por la UPN, con formación en Design & UX Research por la University of Michigan. Fundadora de BellUX Innovation y co-fundadora de AinyHUB. Docente activa en USIL y New Horizons con más de 12 años en Experience Design.",
+    "resumen": "Con más de 12 años de experiencia en Experience Design, Product Management e Innovación, Nhool ha liderado equipos de hasta 22 personas y dirigido la estrategia de experiencia digital en ecosistemas B2B/B2C de alto impacto. En UNACEM logró un incremento del +25% en conversión en ecommerce y lanzó MVPs con IA como SellerUP y FerreKardex. En Intercorp Retail gestionó el Design System corporativo para todas las empresas del grupo, logrando una mejora del +18% en conversión. Ha capacitado a más de 100 alumnos por año en organizaciones como ONP, SUNAT, RENIEC y Caja Huancayo, y cuenta con certificaciones en Generative AI (Google Cloud) y Design-Led Strategy (University of Sydney).",
+    "featured": false
+  },
+  {
+    "id": 2,
+    "name": "Mg. Ing. Gustavo Henry Pachas Quispe",
+    "photo": "images/Desconocido_Perfil.jfif",
+    "bio": "Ingeniero de Computación y Sistemas por la USMP y Magíster en Transformación Digital por ESAN. Más de 12 años de experiencia en calidad de software, metodologías ágiles y gestión de proyectos TI. Agile Team Coach en QDS y docente en la UPCH, donde también ejerce como asesor de tesis.",
+    "resumen": "Gustavo ha desarrollado su carrera en organizaciones de alto impacto como Interbank, Tsoft (La Positiva) y Moventi (Surgir), liderando equipos QA y squads de desarrollo ágil. Como docente universitario ha impartido cursos de Metodologías Ágiles, Gestión de Proyectos, Calidad y Prueba de Software, e IA en los Negocios Digitales en instituciones como la UPCH. Cuenta con publicaciones académicas indexadas en Scopus presentadas en la 22nd LACCEI International Conference (2024), sobre IA aplicada a la detección de ataques de ingeniería social y sobre IoT para estacionamientos inteligentes. Posee certificaciones internacionales vigentes como Professional Scrum Master I y Professional Scrum Product Owner I (Scrum.org), ISTQB Certified Tester Foundation Level, y cursos de Dirección de Proyectos PMBOK 7ma edición.",
+    "featured": false
+  },
+  {
+    "id": 3,
+    "name": "Dr. Gabriel Carrasco-Escobar",
+    "photo": "images/Gabriel_Perfil.jfif",
+    "bio": "Epidemiólogo peruano con Doctorado en Salud Pública por la UC San Diego. Profesor Asociado en la Escuela de Salud Pública de la UPCH y Director del InnovaLab. Reconocido por el MIT Technology Review como uno de los Innovadores Menores de 35 años de América Latina en 2024.",
+    "resumen": "Con más de 11 años vinculado a la UPCH y experiencia postdoctoral en UC San Diego, Gabriel lidera investigación en epidemiología de enfermedades infecciosas, cambio climático, movilidad humana y entornos urbanos, aplicando métodos avanzados como inferencia causal, análisis espacio-temporal, machine learning, IA y teledetección. Cuenta con más de 96 publicaciones académicas en revistas internacionales de alto impacto como Royal Society Open Science e Infectious Diseases of Poverty. Ha recibido financiamiento del Wellcome Trust y colabora con redes de investigación globales. Es miembro del Directorio del Instituto de Medicina Tropical Alexander von Humboldt.",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "name": "Gisela Muñoz Gálvez",
+    "photo": "images/Desconocido_Perfil.jfif",
+    "bio": "Jefa de la Carrera de Ingeniería Informática en la UPCH y docente con más de 10 años de trayectoria en educación superior, banca y consultoría. Especialista en UX Research, Service Design y Design Leadership. Ha liderado investigaciones de rediseño en BBVA y proyectos de cooperación con Practical Action.",
+    "resumen": "Con más de 10 años de experiencia, Gisela ha ocupado roles de liderazgo en diseño de experiencias en sectores como banca, educación superior y desarrollo social. En BBVA lideró la estrategia de investigación para el rediseño del canal de banca móvil, aplicando entrevistas, tests de usabilidad y coordinación directa con el Research Holding internacional. Es reconocida por ser una mentora destacada en Design Research, Service Design y Design Leadership, con capacidad para transformar insights en decisiones estratégicas. Sus aptitudes principales incluyen Investigación de Experiencia de Usuario e Investigación de Productos.",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "name": "Mg. Juan Carlos Morales Arevalo",
+    "photo": "images/Juan_Perfil.jfif",
+    "bio": "Ingeniero Empresarial y de Sistemas por la USIL, con Maestría en Ingeniería de Sistemas por la UNI y MBA por CENTRUM PUCP. Investigador reconocido por RENACYT, con más de 15 años en TI y 9 años en docencia universitaria. Docente en la UPC y asesor de tesis orientadas a publicación científica internacional.",
+    "resumen": "Juan Carlos ha publicado artículos indexados en Scopus y WoS en temáticas de analítica de datos, aplicaciones móviles con IA, ciberbullying, gamificación y transformación digital universitaria (2024–2025). Coordina un grupo de 10 tesistas de décimo ciclo cuyos trabajos apuntan a revistas indexadas, y ha logrado que sus asesorados publiquen en revistas Q1 como JMIR. Es miembro activo de la Red de Docentes de América Latina y el Caribe (RedDOLAC) y del grupo de investigación ITDATA–UNMSM, y ha sido ponente en el V Seminario Internacional de Ciencia de Datos (SICDAS-2024). Cuenta con certificaciones como Microsoft Azure Fundamentals, Scrum Master, Agile Coach y Six Sigma Yellow Belt.",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "name": "Msc. Ing. Jaime Luis Escobar Aguirre",
+    "photo": "images/Desconocido_Perfil.jfif",
+    "bio": "Ingeniero de Sistemas con Maestría en Ingeniería de Sistemas por la UCV e investigador RENACYT (P0065689). Egresado del Doctorado en Ingeniería de Sistemas de la UNMSM. 25 años de experiencia profesional en EsSalud y 14 años como docente en UPCH, URP, UPC, UNMSM, USIL y UNAP.",
+    "resumen": "Jaime ha publicado trabajos en conferencias internacionales indexadas como LACCEI 2024 y 2025, e IEMSTRONICS 2025, con artículos Q3 Scopus aceptados en proceso de corrección. Ha contribuido con 6 capítulos de libros académicos con filiación institucional y registra 5 derechos de autor por software ante INDECOPI. Como asesor y jurado de tesis, ha acompañado a más de 20 tesistas en programas de titulación en URP, USIL y UTP, abarcando temas de IA, ciberseguridad, sistemas ERP, automatización y Deep Learning. Sus líneas de investigación incluyen inteligencia artificial, ciberseguridad, análisis de datos con Python y R, arquitectura de software y transformación digital.",
+    "featured": true
+  },
+  {
+    "id": 8,
+    "name": "MBA Diego Oviedo",
+    "photo": "images/Diego_Perfil.jfif",
+    "bio": "Especialista en Ciberseguridad con más de 20 años de experiencia en GRC, gestión de incidentes y liderazgo de operaciones de seguridad. MBA por CENTRUM PUCP y Master en Liderazgo por EADA. Trayectoria en Kyndryl, IBM (9 años) y Deloitte (más de 10 años, nivel Socio).",
+    "resumen": "Diego posee certificaciones internacionales de alto nivel emitidas por ISACA: Certified Information Systems Auditor (CISA, 2006) y Certified in Risk and Information Systems Control (CRISC, 2010). A lo largo de su carrera ha liderado estrategias de ciberseguridad, gestión de riesgos corporativos y transformación de operaciones de seguridad en organizaciones de gran escala. Su experiencia abarca tanto la consultoría estratégica en firmas globales como la dirección de servicios de seguridad en entornos multinacionales, combinada con una activa participación en comunidades de seguridad como OWASP y en la formación de profesionales en educación superior.",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "name": "Dra. Mabel K. Raza",
+    "photo": "images/Mabel_Perfil.jfif",
+    "bio": "Doctora en Biomedical and Health Informatics por la University of Washington (2013). Directora de los Programas de Ingeniería y Profesora Asociada en la UPCH. Promotora de la inclusión de mujeres en tecnología y ex Data Scientist en Clínica Internacional.",
+    "resumen": "Mabel ha liderado el programa de colaboración con AWS Academy en UPCH y coordinó el Programa de Maestría en Informática Biomédica en Salud Global, formando a la nueva generación de profesionales peruanos en bioinformática e informática en salud. Como Data Scientist en Clínica Internacional, fue responsable de un proyecto seleccionado en el Analytics Lab del MIT, obteniendo el segundo lugar con un modelo predictivo de estadía hospitalaria, e implementó un modelo de predicción de ausentismo médico que redujo el no-show en un 3%. Ha publicado en The Lancet y colabora en iniciativas de investigación sobre IA y ciencia de datos en salud global.",
+    "featured": false
+  },
+  {
+    "id": 10,
+    "name": "Mg. Eduardo Sotelo Bazán",
+    "photo": "images/Eduardo_Perfil.jfif",
+    "bio": "Licenciado en Física por la UNAC y Magíster en Física por la PUCP, donde cursa el Doctorado con especialidad en Óptica Cuántica. Catedrático en la UNAC desde 2021, impartiendo Mecánica Cuántica, Física Computacional y Electromagnetismo. Divulgador científico con canal de YouTube.",
+    "resumen": "Las áreas de investigación de Eduardo abarcan la física teórica, los fundamentos de la mecánica cuántica, la teoría de la información cuántica, los fundamentos de las máquinas de Turing, ciencia de datos, sistemas lógicos digitales y electrónica con sistemas embebidos. Su perfil combina rigor analítico en física teórica y computacional con competencias en programación científica, lo que lo convierte en un asesor pertinente para proyectos de tesis en la frontera entre física, computación e inteligencia artificial. Ejerce como asesor para estudiantes de física en líneas de investigación afines a sus especialidades.",
+    "featured": false
+  },
+  {
+    "id": 11,
+    "name": "Mg. Deisy Lizbeth Acosta Ticse",
+    "photo": "images/Deisy_Perfil.jfif",
+    "bio": "Ingeniera Informática por la UPCH (primer puesto) y Magíster en Administración por ESAN con mención en Supply Chain Management. Más de 15 años combinando gestión de TI, innovación y docencia. Catedrática en UPC, UPCH, UCSUR, USIL con cursos de Python, IA Generativa y Ciencia de Datos.",
+    "resumen": "Las áreas de investigación e interés de Deisy abarcan la Inteligencia Artificial y tecnologías emergentes, Ciencia de Datos, IoT, Healthtech, innovación aplicada con metodologías como Design Thinking y Lean Startup, y la construcción científico-textual desde una visión transdisciplinaria. Su perfil combina sólida formación técnica en ingeniería informática con experiencia ejecutiva en gestión de proyectos de innovación financiados por ProInnovate, Google.org y BID, lo que la convierte en una asesora pertinente para tesis que articulen tecnología, gestión empresarial, emprendimiento o innovación social.",
+    "featured": false
+  }
+]
